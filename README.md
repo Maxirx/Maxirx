@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxirx
 - 👀 I’m interested in new adventures
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java and React js
 - 💞️ I’m looking to collaborate on 
 - 📫 send me a email!
 
